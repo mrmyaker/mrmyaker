@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](logo.gif)
 
 Hello! My name's Myaker. I am engaged in Discord servers, my favorite games are CS:GO, and Geometry Dash.
 
